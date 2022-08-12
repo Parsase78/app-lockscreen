@@ -7,10 +7,7 @@ app menu with lock screen using JavaScript
 * CSS
 * JavaScript
 
-## live website
-
-https://peter-kimanzi.github.io/app-menu-with-lock-screen/
-
+\
 
 ## screenshots
 
