@@ -21,6 +21,3 @@ app menu with lock screen using JavaScript
 
 ![app4](https://user-images.githubusercontent.com/71552773/180741318-eabccb2b-7629-4faf-a496-5a4b255547ac.PNG)
 
-## Dont forget to star repo
-
-# Enjoy !!
